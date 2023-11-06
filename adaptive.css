@@ -1,0 +1,9 @@
+@media (max-width: 608px) {
+    .navbar {
+        display: none;
+    }
+    
+    .table {
+        font-size: 0.7rem;
+    }
+}
